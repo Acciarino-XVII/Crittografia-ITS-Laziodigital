@@ -52,11 +52,10 @@ Questo progetto implementa una demo di un sistema di comunicazione sicura tra du
 
 ---
 
-## Autore
+## Autori
 
-Dante&Acciaro Security
+Karim Acciaro Emanuele Dante
 
 ---
 
-Se vuoi migliorare o estendere questa demo, puoi aggiungere ad esempio la gestione delle chiavi in formato serializzato, o integrare la comunicazione tramite socket di rete.
 
